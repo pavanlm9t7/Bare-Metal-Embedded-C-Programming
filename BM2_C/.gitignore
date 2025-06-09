@@ -1,0 +1,4 @@
+BM2_C.elf
+BM2_C.map
+main.o
+stm32_startup.o
